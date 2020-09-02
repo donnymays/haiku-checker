@@ -1,0 +1,20 @@
+Character properties = id, health, strength, charisma, attack, introSong
+
+
+Battle System:
+-if player1.strength > 30 => player2.attack => player1.health -= 10
+-generate a random strength multiplier before battle so less strong players can still have a chance to win.
+-if player1 introSong > player 2 => player1.health += 10
+
+
+Level up system:
+-Crowd cheers -> wrestler pumped up -> strength += 10
+-player lifts weights -> strength += 10
+
+
+Inventory System:
+-chair 
+-tag team partner
+-championship belt
+
+
